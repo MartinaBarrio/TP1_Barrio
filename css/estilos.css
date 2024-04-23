@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+#vinculo1, #vinculo2 {
+    color: #4d4d4d;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#vinculo1:hover {
+    font-style: italic;
+    text-decoration: underline;
+    color: #6d95da;
+}
+
+#vinculo2:hover {
+    font-weight: 600;
+    color: #ff4800;
+}
+
+header,footer{
+    width: 90%;
+    background-color: #ecf5ff;
+    height: 420px;
+    border-radius: 20px;
+}
+
+h1{
+    text-align:center;
+    text-decoration: underline;
+    color: #ff4800;
+    font-weight: 700;
+    font-family: "Rubik", sans-serif;
+    font-size: 128px;
+}
+
+h2 {
+ text-align:center;
+ color: #ff4800;
+ font-family: "Raleway", sans-serif;
+ font-weight: 500;
+ font-size: 50px;
+}
+
+img {
+    width: 40%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+body{
+    margin: 5%;
+    color: #4d4d4d;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+}
+
+h3 {
+ color: #ff4800;   
+ font-family: "Raleway", sans-serif;
+ font-weight: 600;
+ font-size: 20px;
+}
